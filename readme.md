@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sotomarcelo&label=Profile%20views&color=0e75b6&style=flat" alt="sotomarcelo" /> </p>
 
-- 🔭 I’m currently working on Sophia2 [hermes project](https://github.com/TeamSophia2)
-
 - 🌱 I’m currently learning **Fullstack tools and new tecnologies.**
 
 - 👨‍💻 All of my projects are available in [github](https://github.com/sotomarcelo?tab=repositories)
 
-- 📫 How to reach me **marcelo.soto.barria99@gmail.com**
+- 📫 How to reach me **contacto.sotomarcelo@gmail.com**
 
 - ⚡ Fun fact **I like play videogames and volleyball.**
 
