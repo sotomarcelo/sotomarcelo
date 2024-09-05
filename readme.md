@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Soto</h1>
-<h3 align="center">A fifth year student of Ingeniería Civil en Informática in Universidad Austral de Chile</h3>
+<h3 align="center">Recently graduated in Ingeniería Civil en Informática from Universidad Austral de Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sotomarcelo&label=Profile%20views&color=0e75b6&style=flat" alt="sotomarcelo" /> </p>
 
